@@ -1,0 +1,150 @@
+body
+{
+	margin: auto;
+	width: 90%;
+	background-color: #E9CCF6;
+	
+}
+
+
+header
+{
+	width: 100%;
+	background-color:#608662;
+	color: #fff;
+	text-align: center;
+	font-size: 140%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-shadow: 1px 1px 15px black;
+	font-family:viner hand itc;
+	
+	 
+}
+
+h2
+{
+   color: #FFFFFF;
+   text-align: center;
+   font-size: 250%;
+   font-family:berlin sans fb demi;
+   text-shadow: 1px 1px 15px black;
+   
+}
+
+main {
+	width: 100%;
+	}
+	
+section {
+	width: 100%;
+	font-size: 100%;
+	background-color:#7C4793;
+	float: left;
+	color: #FFFFFF;
+	
+}
+
+.aromaterapia {
+	width: 27%;
+	height: 20em;
+	font-size: 90%;
+	float: left;
+	color: #000;
+	padding-left: 1em;
+	padding-top: 1em;
+	margin: 0.5em;
+	padding-right: 1em;
+	
+}	
+.fotoproducto {
+	width: 28%;
+	height: 20em;
+	font-size: 90%;
+	background-color: #fff;
+	float: left;
+	color: #000;
+	padding-left: 1em;
+	padding-top: 1em;
+	margin: 0.5em;
+	padding-right: 1em;
+}
+.pagos{
+    width: 23%;
+	height: 22em;
+	font-size: 70%;
+	background-color: #fff;
+	float: left;
+	color: #000;
+	padding-left: 1em;
+	padding-top: 1em;
+	margin: 0.5em;
+	text-align: center;
+	
+	
+}
+.pagos img {	
+    border-radius: 0,5em;
+	width: 85%;
+	font-size: 70%;
+	height: 22em;
+	
+}
+	
+.fotoproducto img {	
+	border-radius: 0.5em;
+	width: 100%;
+	}
+
+nav
+{ 
+   font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
+   color: #fff;
+   background-color:#B1D6B1 ;
+   width: 100%;
+   text-align: center;
+   padding-top: 1em;
+   padding-bottom: 1em;
+   
+}
+
+nav a:link,a:visited,a:hover,a:active { 
+	color: #fff;
+	border: 3px #18671C solid;
+	background-color:#608662;
+	padding: 0.5em;
+	text-decoration: none;
+	
+	}
+
+.actual {
+	font-weight: bold;
+	}
+	
+footer {
+	text-align: right;
+    background-color:#608662;
+    width: 100%;
+	height: 4em;
+    clear: both;
+
+}
+
+.izquierda {
+	text-align: left;
+    color: #fff;
+    width: 100%;
+    clear: both;
+	
+}
+.derecha{
+	
+text-align: right;
+    color: #fff;
+    width: 100%;
+    clear: both;
+
+}
+.mapa{
+	text-align: center;
+	}
