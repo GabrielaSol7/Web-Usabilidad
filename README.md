@@ -1,6 +1,6 @@
 
-
 ##Sitio Web de Productos Naturales 
+
 ####_Descripción General_
 
 Este sitio esta realizado con HTML Y CSS, Esta diseñado para mostrar una amplia variedad de accesorios y artefactos a base de productos naturales. Los usuario pueden navegar y descubrir las secciones del sitio, como el perfil donde se cuenta acerca de la idiologia de la marca/empresa, informacion sobre la aromaterapia. Asimismo formas y medios de pago, link de su redes sociales y mapa de donde se encuentra el local. 
